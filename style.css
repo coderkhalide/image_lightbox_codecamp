@@ -29,6 +29,7 @@ body{
     object-fit: contain;
     overflow: hidden;
     cursor: pointer;
+    height: 100%;
 }
 .popup img {
     width: 100%;
